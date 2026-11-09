@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-compton-612720394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Acessar meu LinkedIn" /></a>
-  <a href="https://github.com/LucasCompton00?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Meus%20projetos-174EA6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver meus repositórios no GitHub" /></a>
 </p>
 
 ## 👋 Sobre mim
