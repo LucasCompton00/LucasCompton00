@@ -2,9 +2,6 @@
   <img src="./assets/banner.svg" alt="Banner azul de Lucas Compton: estudante de ADS, com interesse em Engenharia de Dados e Desenvolvimento de Software" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-compton-612720394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Acessar meu LinkedIn" /></a>
-</p>
 
 ## 👋 Sobre mim
 
